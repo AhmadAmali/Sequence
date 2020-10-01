@@ -1,4 +1,5 @@
 #include "main.h"
+#include <gtk/gtk.h>
 
 char *filename;
 int main(int argc, char *argv[]) 
